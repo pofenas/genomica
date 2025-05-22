@@ -2,7 +2,8 @@
 #seqname PM - GENEID
 #2 genes.
 browser position chr21:43669884-43693383
-track name="pm-GENEID" type=gff
+#track name="pm-GENEID"
+#type=gff
 # Gen 1
 # Score=31.58
 chr21	geneid_v1.2	First	43659665	43659794	 9.81	+	0	human_1
