@@ -2,7 +2,7 @@
 #seqname PM - GENEID
 #2 genes.
 browser position chr21:43669884-43693383
-track name='pm-GENEID' color '100,10,10'
+track name='pm-GENEID' color "100,10,10"
 browser position chr21:43669884-43693383
 # Gen 1
 # Score=31.58
