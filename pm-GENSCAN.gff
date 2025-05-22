@@ -1,0 +1,22 @@
+##gff-version 2
+browser position chr21:43669884-43693383
+track name="pm-GENSCAN" type=gff color="255,255,0" visibility=full
+chr21	GENSCAN	exon	157	286	33.81	+	0	ID=gene1_exon1.01;Name="1.01";Frame=0
+chr21	GENSCAN	exon	10376	10458	2.96	+	0	ID=gene1_exon1.02;Name="1.02";Frame=0
+chr21	GENSCAN	exon	12800	12857	6.66	+	1	ID=gene1_exon1.03;Name="1.03";Frame=1
+chr21	GENSCAN	exon	14362	14447	1.04	+	2	ID=gene1_exon1.04;Name="1.04";Frame=2
+chr21	GENSCAN	exon	15128	15189	-1.07	+	1	ID=gene1_exon1.05;Name="1.05";Frame=1
+chr21	GENSCAN	exon	15526	15655	6.50	+	1	ID=gene1_exon1.06;Name="1.06";Frame=1
+chr21	GENSCAN	exon	16764	16828	3.32	+	2	ID=gene1_exon1.07;Name="1.07";Frame=2
+chr21	GENSCAN	exon	17225	17406	17.91	+	2	ID=gene1_exon1.08;Name="1.08";Frame=2
+chr21	GENSCAN	exon	23771	23865	0.68	+	0	ID=gene1_exon1.09;Name="1.09";Frame=0
+chr21	GENSCAN	exon	25045	25142	3.11	+	0	ID=gene1_exon1.10;Name="1.10";Frame=0
+chr21	GENSCAN	exon	26262	26281	-2.35	+	0	ID=gene1_exon1.11;Name="1.11";Frame=0
+chr21	GENSCAN	exon	27296	27427	11.22	+	0	ID=gene1_exon1.12;Name="1.12";Frame=0
+chr21	GENSCAN	exon	27663	27851	2.96	+	10	ID=gene1_exon1.13;Name="1.13";Frame=10
+chr21	GENSCAN	exon	28008	28732	38.55	+	1	ID=gene1_exon1.14;Name="1.14";Frame=1
+chr21	GENSCAN	exon	30236	30380	1.26	+	1	ID=gene1_exon1.15;Name="1.15";Frame=1
+chr21	GENSCAN	exon	30589	30671	-1.04	+	2	ID=gene1_exon1.16;Name="1.16";Frame=2
+chr21	GENSCAN	exon	30780	30932	13.67	+	2	ID=gene1_exon1.17;Name="1.17";Frame=2
+chr21	GENSCAN	exon	31931	31994	10.39	+	1	ID=gene1_exon1.18;Name="1.18";Frame=1
+chr21	GENSCAN	exon	33682	33875	9.38	+	2	ID=gene1_exon1.19;Name="1.19";Frame=2
