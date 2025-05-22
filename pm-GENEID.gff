@@ -1,7 +1,7 @@
 #seqname PM - GENEID
 #2 genes.
 browser position chr21:43669884 - 43693383
-track name=pm - GENEID
+track name=pm-GENEID
 Score = 31.87
 # Gen 1
 Score = 31.58
