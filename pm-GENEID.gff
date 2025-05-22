@@ -1,5 +1,6 @@
+##gff-version 2
 #seqname PM - GENEID
-#2 genes.
+#2 genes
 browser position chr21:43669884 - 43693383
 track name="pm-GENEID"
 # Gen 1
